@@ -1,0 +1,22 @@
+{
+  "name": "docker-ruby-node-pg",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "0.0.16"
+  },
+  "homepage": "https://github.com/AlphaHydrae/docker-ruby-node-pg",
+  "bugs": "https://github.com/AlphaHydrae/docker-ruby-node-pg/issues",
+  "author": "Simon Oulevay (https://github.com/AlphaHydrae)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlphaHydrae/docker-ruby-node-pg"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/AlphaHydrae/docker-ruby-node-pg/master/LICENSE.txt"
+    }
+  ]
+}
