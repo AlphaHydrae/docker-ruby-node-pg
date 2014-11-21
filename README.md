@@ -4,9 +4,9 @@
 
 The goal of this image is to support Ruby and Node.js development with a PostgreSQL database without including unneeded dependencies such as MySQL libraries or Subversion, which are typically included in [buildpack-deps](https://github.com/docker-library/buildpack-deps), the base for the standard Docker images for Ruby and Node.js.
 
-| Tag | Ruby Version | Node.js Version | NPM Version |
-| :---: | :---: | :---: | :---: |
-| `0.1.0` | 2.1.5 | 0.10.33 | 2.1.8 |
+## Available Tags
+
+* `0.1.0` - Ruby 2.1.5, Node.js 0.10.33
 
 ## Meta
 
